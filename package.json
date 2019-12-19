@@ -1,0 +1,10 @@
+{
+  "name": "timeshot",
+  "version": "1.0.0",
+  "description": "Registro de arquivos construido sobre o Node.js",
+  "main": "timeshot.js",
+  "repository": "https://github.com/guesant/timeshot.git",
+  "author": "Gabriel Rodrigues <jipacoding@gmail.com>",
+  "license": "GPL-3.0",
+  "private": true
+}
