@@ -6,7 +6,9 @@
   "repository": "https://github.com/guesant/timeshot.git",
   "author": "Gabriel Rodrigues <jipacoding@gmail.com>",
   "license": "GPL-3.0",
-  "private": true,
+  "bin": {
+    "timeshot": "bin/timeshot.js"
+  },
   "scripts": {
     "build": "babel lib/timeshot.js -o lib/timeshot-babel.js"
   },
